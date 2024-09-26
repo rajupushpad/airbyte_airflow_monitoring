@@ -15,4 +15,4 @@ def my_dag():
     
     my_first_task()
     
-my_dag
+my_dag()
